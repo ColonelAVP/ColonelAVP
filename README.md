@@ -3,7 +3,7 @@
 <div>
 <img width=350px height=185px align="right" src="https://github.com/ColonelAVP/ColonelAVP/blob/master/computer-meme-2-600x400.jpg" />
   </div>
-
+### <em> ▫️ MCA student
 ### <em> ▫️ Python Programmer 🐍💻
 ### <em> ▫️ Software Engineer in making </em> ⏳
 ### <em> ▫️ Currently Working on: Django / Backend / Web Development  </em> ✅
