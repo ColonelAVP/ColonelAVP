@@ -1,4 +1,4 @@
-## <em> Hi </em> 👋🏻, <em> I'm Atherv. </em> &nbsp; <em> I'm Working towards achieving epitome of consistency </em> 📈
+## <em> Hi </em> 👋🏻 ! <em> I'm Atherv. </em> &nbsp; <em> I'm Working towards achieving epitome of consistency </em> 📈
 <div class="suck">
 <img width=480px height=240px align="left" src="https://raw.githubusercontent.com/ColonelAVP/ColonelAVP/master/1_BU7f02LeQeELztqxa8eCmw.gif" />
  </div>
