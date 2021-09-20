@@ -1,7 +1,7 @@
 ### ▫️ <em> Hello, I'm Atherv </em> 🤘🏻 
 
 <div>
-<img width=530px height=265px align="right" src="https://raw.githubusercontent.com/ColonelAVP/ColonelAVP/master/1_BU7f02LeQeELztqxa8eCmw.gif" />
+<img width=500px height=250px align="right" src="https://raw.githubusercontent.com/ColonelAVP/ColonelAVP/master/1_BU7f02LeQeELztqxa8eCmw.gif" />
   </div>
 
 ### ▫️ MCA student
