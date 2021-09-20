@@ -1,7 +1,7 @@
 ## <em> Hi </em> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><em> I'm Atherv ! </em> &nbsp; <em> I'm Working towards achieving epitome of consistency  </em> 📈
 
 <div class="suck">
-<img width=500px height=285px align="left" src="https://raw.githubusercontent.com/ColonelAVP/ColonelAVP/master/1_BU7f02LeQeELztqxa8eCmw.gif" />
+<img width=500px height=300px align="left" src="https://raw.githubusercontent.com/ColonelAVP/ColonelAVP/master/1_BU7f02LeQeELztqxa8eCmw.gif" />
  </div>
 
 #### <em> ⭕ How to Reach me: </em>
