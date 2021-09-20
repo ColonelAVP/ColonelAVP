@@ -1,7 +1,7 @@
 ### ▫️ <em> Hello, I'm Atherv </em> 🤘🏻 
 
 <div>
-<img width=350px height=185px align="right" src="https://github.com/ColonelAVP/ColonelAVP/blob/master/computer-meme-2-600x400.jpg" />
+<img width=350px height=185px align="right" src="https://raw.githubusercontent.com/ColonelAVP/ColonelAVP/master/1_BU7f02LeQeELztqxa8eCmw.gif" />
   </div>
 
 ### ▫️ MCA student
