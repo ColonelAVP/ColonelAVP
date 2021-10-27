@@ -20,4 +20,4 @@
 <img align="right" src="https://img.icons8.com/color/48/26e07f/pycharm.png" width="30" height="30"/>
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="30" height="30"/>
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="25" height="30"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="30" height="30"/>
+<img align="right" src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="30" height="30"/>
