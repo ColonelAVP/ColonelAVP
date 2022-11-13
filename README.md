@@ -1,8 +1,11 @@
-<img src="https://user-images.githubusercontent.com/78366601/201511058-4c43def7-f97c-448d-b847-023d102f730c.gif" align="center" alt="my_banner"/>
+<img src="https://user-images.githubusercontent.com/78366601/201514045-437f506e-47b2-4ff4-aeeb-6bff6bf9b89e.gif" align="center" alt="my_banner"/>
 <div align="center">
-  <p>Hi, I'm Atherv 
+  <h2>Connect W/ me ⬇️ </h2>
+  
+  
+  
 <div>
-  <h4>Connect W/ me</h4>
+  <h4></h4>
 </div>
 <div>
   <h3> ➡️ Aspiring Software Developer 👨🏻‍💻 </h3>
@@ -16,3 +19,4 @@
       <img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode,gcp,heroku,mysql,sqlite"/>
     </a>
   </p>
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)(https://medium.com/@athervpatil05)
