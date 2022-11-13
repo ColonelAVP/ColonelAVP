@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/78366601/201510476-b09f0127-7b66-43c6-866c-8e41d28a64c5.gif" align="center" alt="my_banner"/>
+<img src="https://user-images.githubusercontent.com/78366601/201511058-4c43def7-f97c-448d-b847-023d102f730c.gif" align="center" alt="my_banner"/>
 <div align="center">
   <p>Hi, I'm Atherv 
 <div>
