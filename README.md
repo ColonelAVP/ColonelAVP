@@ -1,7 +1,6 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="480" height="360"/>
+<img src="https://user-images.githubusercontent.com/78366601/201510476-b09f0127-7b66-43c6-866c-8e41d28a64c5.gif" align="center" alt="my_banner"/>
 
 <div>
-   <h1> Hola, This is Atherv's Github 👋🏻 </h1>
   <h4>Connect W/ me</h4>
 </div>
 <div>
