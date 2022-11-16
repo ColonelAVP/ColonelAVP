@@ -13,7 +13,7 @@
     <h3> 📌 I'm currently working on: </h3>
     <li>Food Deed ( A food delivery App developed in Django & React)</>
     <li>Database ( Learning Database fundamentals and configurations)</>
-    <li>REST API( Learning different types of HTTP Requests )</>
+    <li>REST API( Learning different types of HTTP Requests)</>
   </div>  
   <div>
     <h4></h4>
