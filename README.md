@@ -31,4 +31,3 @@
     <a href="https://medium.com/@athervpatil05/how-to-push-your-code-to-an-existing-github-repository-5d13471286ff">How to push your code to existing github repo</a>
   </div>
 </div>
-[![An image of @colonelavp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/colonelavp)](https://holopin.io/@colonelavp)
