@@ -11,7 +11,7 @@
   </div>
   <div align="center">
     <h3> 📌 I'm currently working on: </h3>
-    <li>Food Deed ( A food delivery App developed in Django & React )</>
+    <li>Food Deed ( AI Assistant to enhance the mood of the people )</>
     <li>Database ( Learning Database fundamentals and configurations )</>
     <li>REST API( Learning different types of HTTP Requests )</>
   </div>  
